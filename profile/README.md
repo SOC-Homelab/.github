@@ -16,14 +16,13 @@ Two people from different backgrounds, both moving into security operations. Eve
 
 Computer Science undergraduate at the University of Calabria. Backend developer (Java/Spring Boot, Python, C++) transitioning into **SOC / Blue Team**. TryHackMe: Pre-Security completed, Cyber Security 101 in progress. Preparing CompTIA Security+. Linux daily driver.
 
-[LinkedIn](https://linkedin.com/in/carlo-alessio) · [GitHub](https://github.com/0n1g0r3) · alessiocarlo.94@gmail.com
+[LinkedIn](https://linkedin.com/in/carlo-alessio) · [GitHub](https://github.com/0n1g0r3) 
 
 ### Giulia Mangraviti — Lamezia Terme, Italy
 
 Digital designer with 4 years of professional experience, transitioning into **SOC / Blue Team**. TryHackMe: Pre-Security completed, Cyber Security 101 in progress. Preparing CompTIA Security+. Linux daily driver. 
 
-[LinkedIn](https://linkedin.com/in/giulia-mangraviti-aa514020a) · [GitHub](https://github.com/Ki-Rin-cmd) · giumangraviti@gmail.com
+[LinkedIn](https://linkedin.com/in/giulia-mangraviti-aa514020a) · [GitHub](https://github.com/Ki-Rin-cmd) 
 
 ---
 
-Both immediately available for full-time work, including 24/7 shift rotation, nights and public holidays.
